@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and perfect relation of a great and signal victory gain'd by the English and Hollanders over the French translated out of Dutch.</title>
+            <author>Waldeck, Georg Friedrich, Graf von, 1620-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40552</idno>
+            <idno type="OCLC"> 13744347</idno>
+            <idno type="STC">Wing F2290</idno>
+            <idno type="STC">ESTC R225572</idno>
+            <idno type="EEBO-CITATION">13744347</idno>
+            <idno type="OCLC">ocm 13744347</idno>
+            <idno type="VID">101691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:13, 2938:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and perfect relation of a great and signal victory gain'd by the English and Hollanders over the French translated out of Dutch.</title>
+                  <author>Waldeck, Georg Friedrich, Graf von, 1620-1692.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Graf von Waldeck. Cf. text.</note>
+                  <note>Caption title.</note>
+                  <note>Original title undetermined.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed, August 24, 1689."</note>
+                  <note>Advertisements on p. 2.</note>
+                  <note>Reproduction of originals in the Huntington Library (454:13) and Folger Shakespeare Library (2938:6).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  Belgium --  Walcourt --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>France --  History --  Louis XIV, 1643-1715.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101691:1" rendition="simple:additions"/>
+            <head>A Full and Perfect RELATION OF A <hi>Great and Signal Victory</hi> Gain'd by the Engliſh and Hollanders OVER THE FRENCH.</head>
+            <head type="sub">
+               <hi>Tranſlated out of</hi> Dutch.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>Auguſt 24. 1689.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>TWO ſuch great Armies as thoſe of the Prince of <hi>Waldeck,</hi> and of the Mareſchal <hi>D' Humieres</hi> being ſo nigh each other, as our late Relations have inform'd us, it could not well be expected they ſhould be long in ſuch a Poſture without entring upon Action: And accordingly we have now an Account of a conſiderable Rencounter that happened between them, on the 25 of <hi>Auguſt,</hi> N. S. wherein the <hi>French</hi> were the Aggreſſors, but to their own loſs, as you may ſee by the Letter which the Prince of <hi>Waldeck</hi> writ to the States-General, and which he ſent them by an Expreſs. The Letter is as follows:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Highty and Mighty Lords,</salute>
+                  </opener>
+                  <p>
+                     <hi>UPon the Advice we received this Morning, That the Mareſchal</hi> D' Humieres <hi>was upon his March with his whole Army, which within a few days had been Re inforced with Six Thouſand Men, we fired ſome Pieces of Cannon, to intimate this motion to a great party of Your Lordſhips Army, which was gone out to Forage: In the mean while the Van-Guard of the Enemy attacked the Village</hi> Forge, <hi>where were Poſted Eight Hundred Foot, to cover the Forragers; they were Commanded by the</hi> Engliſh <hi>Collonel</hi> Hodges, <hi>by Lieutenant-Collonel</hi> Goes, <hi>and by the Major of the Re<g ref="char:EOLhyphen"/>giment of</hi> Heſſe; <hi>this Attack laſted Two Hours, and our Men behav'd themſelves with an unexpreſſible Courage, until ſuch time as that Monſieur</hi> Roo, <hi>Major of Horſe, who had been ſent to bring back the Lieutenant-Generals,</hi> Webbenum, Marl<g ref="char:EOLhyphen"/>borough, <hi>and</hi> D'Hubi, <hi>with the Forragers came in to their Succours with ſome Gaval<g ref="char:EOLhyphen"/>ry; then our Men fought Retreating againſt the whole</hi> French <hi>Army which came pouring upon them, until that they came to a riſing Ground near the little City of</hi> Walcour, <hi>where we had poſted a Battalion of the Troops of</hi> Lunenburg, <hi>which was alſo Re<g ref="char:EOLhyphen"/>inforced with another of</hi> Colonel Holle; <hi>The</hi> French <hi>attack'd this City with the ut<g ref="char:EOLhyphen"/>moſt fury during Two Hours and a half. Lieutenant-General</hi> Ailva <hi>advanc'd to Suc<g ref="char:EOLhyphen"/>cour it, with Three Regiments, of which he had detach'd that of the Brigadier</hi> Talmuſch: <hi>Lieutenant-General</hi> Marlborough <hi>follow'd with the</hi> Engliſh <hi>Horſe Life-Guards,
+<pb n="2" facs="tcp:101691:2"/>and Two</hi> Engliſh <hi>Regiments: Major-General</hi> Slangenburg <hi>advanced alſo with ſome Detachments of Foot on the other ſide of the Town, which cauſed the French to retire in ſuch great confuſion, that they abandoned their Canon and their Powder, with a vaſt number of Dead and Wounded, of whom we know not yet preciſely the number. In this Occaſion we took a great many Priſoners, of the number of whom are Three Captains of the Guards, and Monſieur</hi> D' Artignan, <hi>Commanding the Guards. Af<g ref="char:EOLhyphen"/>ter their Retreat, Two Drums came to demand of us a Suſpenſion of Arms, for the carrying off their Dead and for the looking after their Wounded: They inform'd us, That Six Battalions of the Guards, who were preſent in this Action, were for the moſt part defeated. The loſs on our ſide is not conſiderable, ſaving Lieutenant-Col<g ref="char:EOLhyphen"/>lonel</hi> Graham <hi>in the</hi> Engliſh <hi>Troops, and the Major of the Dragoons of</hi> Zell, <hi>who were kill'd; and a Captain and a Lieutenant, with ſome of our Forragers, who were ſnapt up by the Enemy; and there were but very few kill'd or wounded in the City. After that the</hi> French <hi>were Retreated, our Troops continued in their Poſts till Night. The Count</hi> De Naſſaw, <hi>Mareſchal</hi> De Camp, <hi>and all the other Generals, and Offi<g ref="char:EOLhyphen"/>cers behav'd themſelves extreamly well in this Occaſion: All the Souldiers ſhew'd extraordinary Courage, as well as Eagerneſs to be engag'd with the Enemy. The Vi<g ref="char:EOLhyphen"/>ctory would not have ſtopt here, if we could have purſued the Enemy further; but the Scituation of the Ground was an invincible Obſtacle to the Purſuit. The</hi> Engliſh <hi>did more particularly Signalize themſelves in this Action, having given ſingular Proofs of their Bravery. I congratulate your Lordſhips upon the good Succeſs of this Encounter, hoping that God will further Bleſs your Arms after a more peculiar man<g ref="char:EOLhyphen"/>ner, as well as your Government. I am,</hi> &amp;c.</p>
+                  <closer>
+                     <dateline>From the Camp near <hi>Thill. Chaſteau,</hi> 
+                        <date>
+                           <hi>Aug.</hi> 25. 1689. very late at Night.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>At the bottom of this Letter which was made publick by Order of the State, there is another from an Officer of the Army to one of his Friends, dated Friday morning on the 26th. of this Month <hi>S. N.</hi> It ſays, that they had been all the Night at their Arms, and that Prince <hi>Waldeck</hi> had ſpent the Night in his Coach, viſiting the Camp, and giving the neceſſary Orders in this Conjuncture. That they were inform'd the Enemies had loſt Two thouſand Men. That at the moment this was writing they heard Firing, and that it was believed ſome Parties were again engag'd. And that in ſhort it was not doubted but that the <hi>French</hi> would ſeek to take their Revenge. It is obſerva<g ref="char:EOLhyphen"/>ble that the <hi>Engliſh</hi> and <hi>French</hi> Guards were Engag'd againſt each other, and that Fortune ſtill continued to decide in favour of the former. The <hi>French</hi> Ar<g ref="char:EOLhyphen"/>my is ſaid to conſiſt of 34000 Men.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <list>
+               <item>THE Hiſtory of <hi>Guſtavus Adolphus,</hi> Sirnamed The Great King of <hi>Sweden,</hi> together with the Life and Reign of His Succeſſour after <hi>Chriſtina Carolus Guſtavus</hi> Count <hi>Palatine.</hi> Tranſlated out of <hi>French</hi> by <hi>Ferrand Spence</hi> Servant to Their Majeſties. Sold by <hi>R. Clavil, W. Nott, D. Newman, T. Dring. S. Crouch,</hi> and <hi>J. Hindmarſh,</hi> and moſt other Bookſellers.</item>
+               <item>The True Intereſts of the Princes of <hi>Europe</hi> in the Preſent State of Affairs to oppoſe the <hi>French</hi> King: Or Reflections upon a Pamphlet written in <hi>Frinch,</hi> Entituled, A Letter from <hi>Monſieur,</hi> to <hi>Mon<g ref="char:EOLhyphen"/>ſieur,</hi> concerning the Tranſactions of the Time. Printed for <hi>Sam. Crocch.</hi>
+               </item>
+               <item>The Dilucidator: Or, Reflections upon Modern Tranſactions, By way of Letters from a Perſon at <hi>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſterdam,</hi> to his Friend in <hi>London.</hi> Publiſh'd weekly. <hi>London:</hi> Printed and are to be Sold by <hi>R. Taylor.</hi> at <hi>Stationers Hall.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>S. Crouch,</hi> at the corner of <hi>Popes-Head Ally,</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
